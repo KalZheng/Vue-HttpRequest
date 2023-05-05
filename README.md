@@ -1,1 +1,1 @@
-# Vue-HttpRequest
+# Vue-HttpRequests
